@@ -1,10 +1,8 @@
 <?php
+    $angka1 = $_POST['angka_1'];
+    $angka2 = $_POST['angka_2'];
 
-$angkaSatu = $_POST['angka_1'];
-$angkaDua  = $_POST['angka_2'];
+    $hasil = $angka1 + $angka2;
 
-$hasil     = $angkaSatu + $angkaDua;
-
-echo "<h1>Penjumlahan dari $angkaSatu dengan $angkaDua adalah " . $hasil . "</h1>";
-
+    echo "<h3>Hasil dari $angka1 dijumlahkan dengan $angka2 adalah " . $hasil . "</h3>";
 ?>
