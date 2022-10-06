@@ -1,3 +1,4 @@
+<h3>Form Penjumlahan</h3>
 <form action="proses_penjumlahan.php" method="post">
     <label for="">Masukan Angka 1</label>
     <input type="number" name="angka_1">

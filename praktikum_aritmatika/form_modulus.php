@@ -1,3 +1,4 @@
+<h3>Form Modulus</h3>
 <form action="proses_modulus.php" method="post">
     <label for="">Masukan Angka 1</label>
     <input type="number" name="angka_1">
