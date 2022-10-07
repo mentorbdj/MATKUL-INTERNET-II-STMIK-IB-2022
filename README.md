@@ -9,7 +9,7 @@
 ## PRAKTIKUM 1 HTTP
 > Pada praktikum 1 Pembahasan lebih di fokuskan pada HTTP METHOD atau HTTP REQUEST berupa GET dan POST Sebagai Awal Pembelajaran, menggunakan **echo** dan **println** sebagai metode output dan menggunakan HTTP sebagai sarana input dan pengiriman data di PHP
 
-## PRAKTIKUM 2 VARIABLE, OPERATOR, Type Casting
+## PRAKTIKUM 2 VARIABLE, OPERATOR, TYPE CASTING
 > Pada praktikum 2 materi yang diajarkan adalah Operasi pada PHP baik aritmatika dan logika serta mengenal tipe data yang ada pada php
 
 ## PRAKTIKUM 3 DECISION 
