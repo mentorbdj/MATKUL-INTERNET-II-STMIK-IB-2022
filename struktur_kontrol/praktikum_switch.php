@@ -2,17 +2,17 @@
 
     $nilai = 86;
 
-    // if ($nilai <= 30) {
-    //     echo "Nilai anda adalah D";
-    // } elseif ($nilai > 30 && $nilai <= 60) {
-    //     echo "Nilai anda adalah C";
-    // } elseif ($nilai > 60 && $nilai <= 85) {
-    //     echo "Nilai anda adalah B";
-    // } elseif ($nilai > 85 && $nilai <= 100) {
-    //     echo "Nilai anda adalah A";
-    // } else {
-    //     echo "Nilai anda salah input";
-    // }
+    if ($nilai <= 30) {
+        echo "Nilai anda adalah D";
+    } elseif ($nilai > 30 && $nilai <= 60) {
+        echo "Nilai anda adalah C";
+    } elseif ($nilai > 60 && $nilai <= 85) {
+        echo "Nilai anda adalah B";
+    } elseif ($nilai > 85 && $nilai <= 100) {
+        echo "Nilai anda adalah A";
+    } else {
+        echo "Nilai anda salah input";
+    }
 
     switch ($nilai) {
         case $nilai <= 30:
