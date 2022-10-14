@@ -13,7 +13,7 @@
 > Pada praktikum 2 materi yang diajarkan adalah Operasi pada PHP baik aritmatika dan logika serta mengenal tipe data yang ada pada php
 
 ## PRAKTIKUM 3 DECISION 
-> Pada praktikum 3 materi yang diajarkan adalah Struktur Kontrol
+> Pada praktikum 3 materi yang diajarkan adalah Struktur Kontrol https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/struktur_kontrol
 
 ## PRAKTIKUM 4 LOOP
 > Pada praktikum 4 materi yang diajarkan adalah Struktur Perulangan
