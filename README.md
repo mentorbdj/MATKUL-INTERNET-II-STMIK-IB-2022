@@ -16,7 +16,7 @@
 > Pada praktikum 3 materi yang diajarkan adalah Struktur Kontrol https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/struktur_kontrol
 
 ## PRAKTIKUM 4 LOOP
-> Pada praktikum 4 materi yang diajarkan adalah Struktur Perulangan
+> Pada praktikum 4 materi yang diajarkan adalah Struktur Perulangan https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/perulangan
 
 ## PRAKTIKUM 5 FUNCTION
 > Pada praktikum 5 materi yang diajarkan adalah Penggunaan Function Global dan Function Local
