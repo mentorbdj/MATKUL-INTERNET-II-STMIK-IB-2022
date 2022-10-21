@@ -42,4 +42,9 @@ class Mahasiswa
     {
         return $this->alamat = $alamat;
     }
+
+    public function getDeskripsiAlamatMahasiswa()
+    {
+        return $this->nama . ' beralamat di ' . $this->alamat;
+    }
 }
