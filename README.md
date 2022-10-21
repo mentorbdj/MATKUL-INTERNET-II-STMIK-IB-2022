@@ -1,7 +1,7 @@
 # PRAKTIKUM INTERNET II STMIK IB 2022
   DOSEN PENGAJAR 
   - SRI MELATI, S.Kom., M.Kom, 
-  - Akhmad Syarif, S.Kom., M.Kom.
+  - AKHMAD SYARIF, S.Kom., M.Kom.
 
 ## PRA-PRAKTIKUM
 > Requirement pada praktikum ini adalah PHP dengan menggunakan PHP8.1 dan MySQL
