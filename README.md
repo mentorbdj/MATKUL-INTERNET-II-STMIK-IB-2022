@@ -26,7 +26,7 @@
 > Pada praktikum 6 materi yang diajarkan adalah Penggunaan Class dan Object https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/class
 
 ## PRAKTIKUM 7 PHP MYSQL
-> Pada praktikum
+> Pada praktikum ini diajarkan bagaimana menghubungkan antara php dengan mysql dan menggunakan fungsi error untuk membaca kondisi error pada database https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/menghubungkan_php_mysql/menggunakan_file_koneksi
 
 ## PRAKTIKUM 8 CREATE DATA DAN GET DATA
 > Pada praktikum
