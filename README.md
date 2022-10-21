@@ -23,7 +23,7 @@
 > Pada praktikum 5 materi yang diajarkan adalah Penggunaan Function Global dan Function Local https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/functions
 
 ## PRAKTIKUM 6 CLASS DAN OBJECT
-> Pada praktikum 6 materi yang diajarkan adalah Penggunaan Class dan Object
+> Pada praktikum 6 materi yang diajarkan adalah Penggunaan Class dan Object https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/class
 
 ## PRAKTIKUM 7 PHP MYSQL
 > Pada praktikum
