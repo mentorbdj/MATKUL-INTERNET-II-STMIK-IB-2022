@@ -20,7 +20,7 @@
 > Pada praktikum 4 materi yang diajarkan adalah Struktur Perulangan https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/perulangan
 
 ## PRAKTIKUM 5 FUNCTION
-> Pada praktikum 5 materi yang diajarkan adalah Penggunaan Function Global dan Function Local
+> Pada praktikum 5 materi yang diajarkan adalah Penggunaan Function Global dan Function Local https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/functions
 
 ## PRAKTIKUM 6 CLASS DAN OBJECT
 > Pada praktikum 6 materi yang diajarkan adalah Penggunaan Class dan Object
