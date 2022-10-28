@@ -27,8 +27,7 @@
 
 ## PRAKTIKUM 7 PHP MYSQL DAN GET DATA LIST
 > Pada praktikum ini diajarkan bagaimana menghubungkan antara php dengan mysql dan menggunakan fungsi error untuk membaca kondisi error pada database https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/tree/master/menghubungkan_php_mysql/menggunakan_file_koneksi
-
-> Menampilkan data list atau row pada php
+> Menampilkan data list atau row pada php https://github.com/mentorbdj/MATKUL-INTERNET-II-STMIK-IB-2022/blob/master/menghubungkan_php_mysql/menggunakan_file_koneksi/tampil.php
 
 ## PRAKTIKUM 8 CREATE DATA DAN DELETE DATA
 > Pada praktikum
