@@ -19,13 +19,24 @@
         <th>Username</th>
         <th>Password</th>
         <th>Created At</th>
+        <th>Aksi</th>
     </tr>
     <?php while ($fetch = $result->fetch_array()) : ?>
         <tr>
+            <!-- Menggunakan Nullable Operator (??) -->
             <td><?= $fetch['id'] ?? '-' ?></td>
-            <td><?= $fetch['username'] ?? '-' ?></td>
+            <!-- Metode Tenary -->
+            <td><?= $fetch['username'] == null ? '-' : $fetch['username'] ?></td>
             <td><?= $fetch['password'] ?? '-' ?></td>
             <td><?= $fetch['created_at'] ?? '-' ?></td>
+            <td>
+
+
+                <form action="hapususer.php" method="post">
+                    <input type="hidden" name="id" value="<?= $fetch['id'] ?>">
+                    <input type="submit" value="Hapus User">
+                </form>
+            </td>
         </tr>
     <?php endwhile ?>
 </table>
