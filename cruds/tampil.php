@@ -30,7 +30,9 @@
             <td><?= $fetch['password'] ?? '-' ?></td>
             <td><?= $fetch['created_at'] ?? '-' ?></td>
             <td>
-
+                <a href="formedit.php?id=<?= $fetch['id'] ?>">
+                    Edit
+                </a>
 
                 <form action="hapususer.php" method="post">
                     <input type="hidden" name="id" value="<?= $fetch['id'] ?>">
