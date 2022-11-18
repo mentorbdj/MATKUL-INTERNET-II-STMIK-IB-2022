@@ -9,7 +9,7 @@ $username = $_POST['username'];
 $sql  = "UPDATE tb_user SET username='".$username."'";
 
 if ($_POST['password']) {
-    $sql .= " , password='MD5($_POST[password])'";
+    $sql .= " , password=MD5('".$_POST['password']."')";
 }
 
 $sql .= " WHERE id='".$id."' ";
