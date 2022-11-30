@@ -1,17 +1,30 @@
-<?php 
+<?php
 
  include 'koneksi.php';
- 
+
  // lakukan query
  $query  = "SELECT * FROM tb_user";
+
+ if (@$_GET['cari']) {
+    // query untuk searching
+    $query .= " WHERE username LIKE '%".$_GET['cari']."%'";
+    $query .= " OR password LIKE '%".$_GET['cari']."%'";
+    $query .= " ORDER BY id DESC";
+ }
+
  $result = $koneksi->query($query);
- 
+
 ?>
 
 <h1>Daftar User</h1>
 <hr>
 
 <a href="formtambah.php">Tambah User</a>
+
+<form action="<?= $_SERVER['PHP_SELF'] ?>" method="get">
+    <input type="search" name="cari" value="<?= $_GET['cari'] ?? '' ?>">
+    <button type="submit">Cari</button>
+</form>
 
 <table border="1">
     <tr>
