@@ -4,6 +4,10 @@
 
     session_start();
 
+    if (@$_SESSION['telah_login']) {
+        include 'index.php';
+    } 
+
     if ($_SERVER['REQUEST_METHOD'] == "POST") {
         $username = $_POST['username'];
         $password = $_POST['password'];
